@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'react'
 
 function MyStyledComponent(props) {
   var myStyledComponentStyles = {
@@ -14,7 +14,7 @@ function MyStyledComponent(props) {
       <h4>I also include custom CSS styles!</h4>
       <p>Pretty cool, right</p>
     </div>
-  );
+  )
 }
 
-export default MyStyledComponent;
+export default MyStyledComponent

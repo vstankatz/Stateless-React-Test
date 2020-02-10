@@ -1,7 +1,7 @@
-import React from "react";
-import Header from "./Header";
-import TicketList from "./TicketList";
-import MyStyledComponent from "./MyStyledComponent";
+import React from 'react'
+import Header from './Header'
+import TicketList from './TicketList'
+import MyStyledComponent from './MyStyledComponent'
 
 function App(){
   return (
@@ -10,7 +10,7 @@ function App(){
       <TicketList/>
       <MyStyledComponent/>
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
